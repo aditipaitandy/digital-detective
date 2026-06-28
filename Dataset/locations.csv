@@ -1,0 +1,11 @@
+city_id,city_name,state,region,population_millions,cyber_cell_present,cyber_cell_strength,internet_penetration_pct,reported_cyber_crimes_2023,latitude,longitude,risk_category
+1,Mumbai,Maharashtra,West,20.7,Yes,45,82,18,19.0760,72.8777,Critical
+2,Bengaluru,Karnataka,South,13.2,Yes,38,88,15,12.9716,77.5946,High
+3,Delhi,Delhi,North,32.9,Yes,52,79,22,28.7041,77.1025,Critical
+4,Chennai,Tamil Nadu,South,10.9,Yes,30,75,12,13.0827,80.2707,High
+5,Hyderabad,Telangana,South,10.0,Yes,28,77,11,17.3850,78.4867,High
+6,Pune,Maharashtra,West,7.4,Yes,22,80,10,18.5204,73.8567,Medium
+7,Kolkata,West Bengal,East,14.9,Yes,25,65,9,22.5726,88.3639,Medium
+8,Ahmedabad,Gujarat,West,8.6,Yes,20,73,8,23.0225,72.5714,Medium
+9,Jaipur,Rajasthan,North,4.0,Yes,15,68,7,26.9124,75.7873,Medium
+10,Lucknow,Uttar Pradesh,North,3.7,Yes,12,60,6,26.8467,80.9462,Low

@@ -1,0 +1,36 @@
+evidence_id,case_id,evidence_type,description,date_collected,collected_by,digital_hash,chain_of_custody,admissibility_status,storage_location
+1,1,Email Headers,Phishing email with spoofed sender headers,2023-01-06,ACP Arjun Verma,a3f4b8c9d1e2f567,Maintained,Admissible,Digital Evidence Lab-01
+2,1,Bank Transaction Logs,Wire transfer records showing unauthorized movement,2023-01-07,ACP Arjun Verma,b4c5d9e0f1a2b678,Maintained,Admissible,Digital Evidence Lab-01
+3,2,Ransomware Sample,Encrypted binary of ransomware payload,2023-01-09,Inspector Nisha Rao,c5d6e0f1a2b3c789,Maintained,Admissible,Malware Analysis Lab
+4,2,Bitcoin Wallet Address,Ransom payment receiving wallet,2023-01-09,Inspector Nisha Rao,d6e7f1a2b3c4d890,Maintained,Admissible,Digital Evidence Lab-02
+5,3,Forged Documents,Fake Aadhaar and PAN card scans,2023-01-13,Sub-Inspector Karan Malhotra,e7f8a2b3c4d5e901,Maintained,Admissible,Physical Evidence Room-01
+6,4,Website Screenshots,Fake investment platform interface captures,2023-01-16,Inspector Pooja Nambiar,f8a9b3c4d5e6f012,Maintained,Admissible,Digital Evidence Lab-03
+7,5,Social Media Posts,Screenshots of harassing messages,2023-01-21,DSP Ramakrishna Pillai,a9b0c4d5e6f7a123,Maintained,Admissible,Digital Evidence Lab-01
+8,6,Database Dump,Stolen e-commerce customer records sample,2023-01-23,ACP Arjun Verma,b0c1d5e6f7a8b234,Maintained,Admissible,Secure Storage Server
+9,7,SMS Logs,Bulk smishing message server logs,2023-01-29,Inspector Nisha Rao,c1d2e6f7a8b9c345,Maintained,Admissible,Digital Evidence Lab-02
+10,8,Device Image,Forensic image of seized device with CSAM,2023-02-03,Sub-Inspector Karan Malhotra,d2e3f7a8b9c0d456,Maintained,Admissible,Restricted Evidence Room
+11,9,Marketplace Listing,Screenshot of fraudulent product listing,2023-02-06,Inspector Pooja Nambiar,e3f4a8b9c0d1e567,Maintained,Admissible,Digital Evidence Lab-03
+12,10,Network Traffic Logs,Ransomware C2 communication logs,2023-02-11,DSP Ramakrishna Pillai,f4a5b9c0d1e2f678,Maintained,Admissible,Network Forensics Lab
+13,13,Email Thread,BEC spear phishing email chain with wire instructions,2023-02-23,Sub-Inspector Anjali Desai,a5b6c0d1e2f3a789,Maintained,Admissible,Digital Evidence Lab-01
+14,16,Ransom Note,Digital ransom note with payment instructions,2023-03-06,Inspector Suresh Babu,b6c7d1e2f3a4b890,Maintained,Admissible,Digital Evidence Lab-02
+15,19,SIM Swap Records,Telecom records showing unauthorized SIM swap,2023-03-17,Sub-Inspector Preeti Sharma,c7d8e2f3a4b5c901,Maintained,Admissible,Physical Evidence Room-02
+16,23,Crypto Transaction Chain,Blockchain transaction trail of stolen funds,2023-04-03,Inspector Mohammed Khalid,d8e9f3a4b5c6d012,Maintained,Admissible,Digital Evidence Lab-03
+17,28,Extortion Message,Encrypted message to law firm with proof of data,2023-04-23,Sub-Inspector Divya Krishnan,e9f0a4b5c6d7e123,Maintained,Admissible,Digital Evidence Lab-01
+18,33,ATM Skimmer Device,Physical skimmer recovered from ATM,2023-05-13,ACP Arjun Verma,f0a1b5c6d7e8f234,Maintained,Admissible,Physical Evidence Room-03
+19,35,OT System Logs,Manufacturing SCADA breach logs,2023-05-21,Inspector Nisha Rao,a1b2c6d7e8f9a345,Maintained,Admissible,Network Forensics Lab
+20,39,Telecom Records,SIM swap authorization records with forged KYC,2023-06-06,Sub-Inspector Karan Malhotra,b2c3d7e8f9a0b456,Maintained,Admissible,Physical Evidence Room-01
+21,42,Wire Transfer Auth,Email authorizing $850k transfer with forged CEO signature,2023-06-18,Inspector Pooja Nambiar,c3d4e8f9a0b1c567,Maintained,Admissible,Digital Evidence Lab-02
+22,43,Investor Database,List of 5000 defrauded investors with amounts,2023-06-22,DSP Ramakrishna Pillai,d4e5f9a0b1c2d678,Maintained,Admissible,Secure Storage Server
+23,55,Deepfake Video,AI-generated video of journalist used for harassment,2023-08-09,Sub-Inspector Anjali Desai,e5f6a0b1c2d3e789,Maintained,Admissible,Digital Evidence Lab-03
+24,60,Delivery System Logs,Encrypted courier tracking database,2023-08-29,Inspector Suresh Babu,f6a7b1c2d3e4f890,Maintained,Admissible,Digital Evidence Lab-01
+25,68,Chat Logs,Grooming conversation logs with minor,2023-09-30,Sub-Inspector Preeti Sharma,a7b8c2d3e4f5a901,Maintained,Admissible,Restricted Evidence Room
+26,69,Trading Account,Fake SEBI-registered broker account details,2023-10-04,Inspector Mohammed Khalid,b8c9d3e4f5a6b012,Maintained,Admissible,Digital Evidence Lab-02
+27,74,GST Portal Logs,Unauthorized ITC claim transaction history,2023-10-24,Sub-Inspector Divya Krishnan,c9d0e4f5a6b7c123,Maintained,Admissible,Digital Evidence Lab-03
+28,80,Policy Database,Encrypted insurance company database backup,2023-11-17,ACP Arjun Verma,d0e1f5a6b7c8d234,Maintained,Admissible,Secure Storage Server
+29,85,APT Malware Sample,Nation-state grade implant from defence contractor,2023-12-07,Inspector Nisha Rao,e1f2a6b7c8d9e345,Maintained,Under Review,Malware Analysis Lab
+30,94,Deepfake KYC Video,Synthetic face video used for KYC bypass,2024-01-21,Sub-Inspector Karan Malhotra,f2a3b7c8d9e0f456,Maintained,Admissible,Digital Evidence Lab-01
+31,95,Crypto Wallet Trail,Multi-hop blockchain trail of pig butchering proceeds,2024-01-26,Inspector Pooja Nambiar,a3b4c8d9e0f1a567,Maintained,Admissible,Network Forensics Lab
+32,98,AI Trading Platform,Fake AI bot platform source code and user database,2024-02-10,DSP Ramakrishna Pillai,b4c5d9e0f1a2b678,Maintained,Admissible,Digital Evidence Lab-02
+33,99,Police Database Backup,Encrypted law enforcement database image,2024-02-15,Sub-Inspector Anjali Desai,c5d6e0f1a2b3c789,Maintained,Under Review,Secure Storage Server
+34,100,Biometric Artifact,Synthetic fingerprint mold used for spoofing,2024-02-20,Inspector Suresh Babu,d6e7f1a2b3c4d890,Maintained,Admissible,Physical Evidence Room-02
+35,43,Financial Statements,Ponzi scheme cash flow records,2023-06-23,Sub-Inspector Preeti Sharma,e7f8a2b3c4d5e901,Maintained,Admissible,Physical Evidence Room-03

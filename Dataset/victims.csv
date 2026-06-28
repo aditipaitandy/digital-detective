@@ -1,0 +1,41 @@
+victim_id,full_name,age,gender,occupation,email,phone,city_id,state,annual_income_usd,education,victim_type,reported_to_police,recovery_amount_usd,psychological_impact
+1,Rajesh Kumar Sharma,45,Male,Bank Manager,rajesh.sharma@email.com,9876543210,1,Maharashtra,28000,Graduate,Individual,Yes,15000,High
+2,TechCorp Solutions Ltd,0,Organization,IT Company,info@techcorp.com,0221234567,2,Karnataka,0,NA,Corporate,Yes,80000,Medium
+3,Priya Mehta,32,Female,Housewife,priya.mehta@email.com,9812345678,3,Delhi,8000,Undergraduate,Individual,Yes,0,High
+4,Sunita Investments Pvt Ltd,0,Organization,Investment Firm,admin@sunita-inv.com,0441234567,4,Tamil Nadu,0,NA,Corporate,Yes,5000,Low
+5,Aishwarya Nair,28,Female,Software Engineer,aishwarya.nair@email.com,9823456789,5,Kerala,35000,Postgraduate,Individual,Yes,0,High
+6,MegaMart India Ltd,0,Organization,E-Commerce,contact@megamart.in,0801234567,1,Maharashtra,0,NA,Corporate,Yes,200000,Critical
+7,Mohammed Al-Rashid,55,Male,Retired,m.rashid@email.com,9834567890,2,Karnataka,12000,Graduate,Individual,Yes,3000,Medium
+8,City General Hospital,0,Organization,Healthcare,admin@cityhospital.in,0441234568,3,Delhi,0,NA,Corporate,Yes,0,Critical
+9,Kavitha Reddy,22,Female,Student,kavitha.reddy@email.com,9845678901,6,Andhra Pradesh,0,Undergraduate,Individual,No,0,Medium
+10,Metro Hospital Trust,0,Organization,Healthcare,info@metrohospital.in,0401234567,7,Telangana,0,NA,Corporate,Yes,0,Critical
+11,Deepa Krishnamurthy,38,Female,Teacher,deepa.k@email.com,9856789012,8,West Bengal,10000,Postgraduate,Individual,Yes,0,Low
+12,National Heritage Portal,0,Organization,Government,webmaster@nhp.gov.in,01112345678,1,Delhi,0,NA,Government,Yes,0,High
+13,Vivek Anand Mishra,52,Male,CEO,vivek.mishra@corpmail.com,9867890123,9,Gujarat,120000,MBA,Individual,Yes,0,High
+14,Sundar Raj Iyer,67,Male,Retired Govt Officer,sundar.iyer@email.com,9878901234,10,Tamil Nadu,6000,Graduate,Individual,Yes,0,Medium
+15,Ananya Singh,17,Female,Student,ananya.singh@email.com,9889012345,4,Rajasthan,0,High School,Individual,Yes,0,High
+16,Tech Startup Hub,0,Organization,Technology,admin@techstartup.in,0801234569,5,Karnataka,0,NA,Corporate,Yes,30000,High
+17,Sushma Verma,73,Female,Retired Teacher,sushma.verma@email.com,9890123456,6,Uttar Pradesh,4000,Graduate,Individual,Yes,0,High
+18,StartupGram India,0,Organization,Social Media,contact@startupgram.in,0221234568,7,Maharashtra,0,NA,Corporate,Yes,2000,Medium
+19,Ramesh Babu Yadav,41,Male,Farmer,ramesh.babu@email.com,9901234567,8,West Bengal,5000,High School,Individual,Yes,0,Medium
+20,Vikram and Seema Trust,0,Organization,NGO,info@vstrut.org,0221234569,9,Maharashtra,0,NA,NGO,Yes,0,Medium
+21,CloudStar Technologies,0,Organization,Cloud Services,cto@cloudstar.tech,0801234570,10,Karnataka,0,NA,Corporate,Yes,35000,High
+22,Rashida Patel,29,Female,Marketing Executive,rashida.patel@email.com,9912345678,1,Gujarat,18000,MBA,Individual,Yes,0,Low
+23,CryptoGrowth Investors,0,Organization,Finance,admin@cryptogrowth.in,0221234570,2,Maharashtra,0,NA,Corporate,Yes,40000,High
+24,Dr. Sandhya Kapoor,44,Female,Doctor,dr.sandhya@hospital.com,9923456789,3,Delhi,65000,PhD,Individual,Yes,0,High
+25,Reserve Bank Systems,0,Organization,Banking,it@rbi.org.in,01112345679,4,Maharashtra,0,NA,Government,Yes,0,Critical
+26,Aarav Gupta,35,Male,Accountant,aarav.gupta@email.com,9934567890,5,Haryana,22000,CA,Individual,Yes,10000,Medium
+27,WorkForce Solutions,0,Organization,HR Consultancy,hr@workforcein.com,0801234571,6,Karnataka,0,NA,Corporate,Yes,5000,Low
+28,Premier Law Associates,0,Organization,Legal,admin@premierlaw.in,0221234571,7,Maharashtra,0,NA,Corporate,Yes,0,Critical
+29,Rohit Pandey,48,Male,Chartered Accountant,rohit.pandey@email.com,9945678901,8,Uttar Pradesh,40000,CA,Individual,Yes,25000,High
+30,SafeLife Insurance Ltd,0,Organization,Insurance,support@safelife.in,0441234569,9,Tamil Nadu,0,NA,Corporate,Yes,0,Medium
+31,State Power Authority,0,Organization,Utilities,admin@statepowerauthority.gov,01112345680,10,Maharashtra,0,NA,Government,Yes,0,Critical
+32,Tanmay Bhatt,26,Male,Content Creator,tanmay.bhatt@email.com,9956789012,1,Maharashtra,30000,Graduate,Individual,Yes,0,Medium
+33,CitiBank ATM Network,0,Organization,Banking,security@citibankin.com,0221234572,2,Maharashtra,0,NA,Corporate,Yes,45000,High
+34,Meera Lakshmi,31,Female,Journalist,meera.l@newsportal.com,9967890123,3,Delhi,20000,Postgraduate,Individual,Yes,0,High
+35,AutoParts Manufacturing Co,0,Organization,Manufacturing,contact@autopartsco.in,0201234567,4,Maharashtra,0,NA,Corporate,Yes,100000,Critical
+36,Farhan Sheikh,24,Male,App Developer,farhan.sheikh@email.com,9978901234,5,Karnataka,25000,BE,Individual,No,0,Low
+37,FinServ Mobile App,0,Organization,Fintech,dev@finservapp.com,0801234572,6,Karnataka,0,NA,Corporate,Yes,8000,Medium
+38,Wellness First Hospital Network,0,Organization,Healthcare,admin@wellnessfirst.in,0441234570,7,Tamil Nadu,0,NA,Corporate,Yes,0,Critical
+39,Ashok Trivedi,57,Male,Business Owner,ashok.trivedi@email.com,9989012345,8,Gujarat,75000,Graduate,Individual,Yes,50000,High
+40,Himanshu Datta,33,Male,IT Engineer,himanshu.datta@email.com,9990123456,9,West Bengal,28000,BE,Individual,Yes,2500,Medium

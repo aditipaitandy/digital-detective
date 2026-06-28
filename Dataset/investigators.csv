@@ -1,0 +1,11 @@
+investigator_id,full_name,badge_number,rank,department,specialization,years_experience,cases_assigned,cases_solved,city_id,certifications,join_date,cases_closed_ytd,avg_resolution_days
+1,ACP Arjun Verma,CID-001,ACP,CID Cyber Cell,Financial Cybercrime,12,18,14,1,CEH|CHFI|CISSP,2012-04-01,14,28
+2,Inspector Nisha Rao,CID-002,Inspector,CID Cyber Cell,Social Engineering & Phishing,8,16,11,2,CEH|OSCP,2016-06-15,11,35
+3,Sub-Inspector Karan Malhotra,CID-003,Sub-Inspector,State Cyber Police,Ransomware & Malware,6,14,9,3,CompTIA Security+|CEH,2018-08-01,9,42
+4,Inspector Pooja Nambiar,CID-004,Inspector,Cyber Crime Branch,Identity Theft,9,15,12,4,CHFI|CFE,2015-03-10,12,31
+5,DSP Ramakrishna Pillai,CID-005,DSP,Cyber Crime HQ,Critical Infrastructure,15,12,10,5,CISSP|CISM|CEH,2009-11-20,10,22
+6,Sub-Inspector Anjali Desai,CID-006,Sub-Inspector,CID Cyber Cell,Dark Web & CSAM,5,13,8,6,CHFI|CEH,2019-07-05,8,38
+7,Inspector Suresh Babu,CID-007,Inspector,State Cyber Police,Nation-State Threats,10,11,8,7,CISSP|OSCP,2014-02-14,8,45
+8,Sub-Inspector Preeti Sharma,CID-008,Sub-Inspector,Cyber Crime Branch,Crypto Crime,7,14,10,8,CEH|Blockchain Forensics,2017-09-30,10,33
+9,Inspector Mohammed Khalid,CID-009,Inspector,Cyber Crime HQ,Online Fraud,8,13,9,9,CFE|CEH,2016-01-15,9,36
+10,Sub-Inspector Divya Krishnan,CID-010,Sub-Inspector,CID Cyber Cell,Cyberstalking,4,10,6,10,CEH|CHFI,2020-05-22,6,52

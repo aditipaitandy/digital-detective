@@ -1,0 +1,31 @@
+suspect_id,alias,age,gender,nationality,skill_level,known_affiliations,arrest_status,country_of_operation,modus_operandi,prior_convictions,estimated_gain_usd,risk_score,dark_web_presence
+1,Shadow_Phisher,28,Male,Indian,Expert,PhishKit Gang,Arrested,India,Mass email phishing campaigns using stolen templates,2,180000,85,Yes
+2,CryptoLock_Raven,35,Unknown,Eastern European,Expert,DarkByte Ransomware Group,At Large,Russia,Deploy ransomware via phishing and RDP vulnerabilities,0,2800000,95,Yes
+3,ID_Ghost,32,Male,Indian,Intermediate,Local Fraud Network,Arrested,India,Document forgery and biometric cloning,1,320000,70,No
+4,FakeInvest_Pro,42,Male,Nigerian,Expert,West Africa Cyber Cartel,At Large,Nigeria,Social engineering and fake investment platforms,3,950000,88,Yes
+5,Cyber_Silhouette,25,Female,Indian,Beginner,Solo Operator,Arrested,India,SMS harassment and profile monitoring,0,0,35,No
+6,DataVault_Breacher,38,Male,Chinese,Expert,APT-Shadow Group,At Large,China,SQL injection and zero-day exploits on databases,0,5000000,98,Yes
+7,SmsKing_404,30,Male,Indian,Intermediate,Mobile Fraud Ring,Arrested,India,Bulk SMS phishing with spoofed sender IDs,1,65000,55,No
+8,DarkNet_Dealer_X,45,Male,Unknown,Expert,International CSAM Network,Arrested,Unknown,TOR-based distribution and encryption tools,2,0,99,Yes
+9,QuickFlip_Scammer,22,Male,Indian,Beginner,Local Gang,Arrested,India,Fake marketplace listings,0,18000,30,No
+10,BitLock_Syndicate,40,Unknown,Eastern European,Expert,Ryuk Affiliate Group,At Large,Ukraine,Targeted ransomware on critical infrastructure,0,8500000,97,Yes
+11,FakeStar_Impersonator,27,Female,Indian,Beginner,Solo Operator,Arrested,India,Social media account cloning,0,0,25,No
+12,Patriot_Hacktivist,33,Male,Unknown,Intermediate,Hacktivist Collective,At Large,Unknown,Website defacement and DDoS,0,0,60,Yes
+13,CEO_Phantom,48,Male,Nigerian,Expert,BEC Specialist Group,At Large,Nigeria,Business email compromise and wire fraud,4,4500000,92,Yes
+14,LotteryKing_Fake,55,Male,Indian,Beginner,Phone Fraud Gang,Arrested,India,IVR call fraud for lottery scams,2,85000,40,No
+15,AnonBully_777,16,Male,Indian,Beginner,School Gang,Arrested,India,Anonymous app harassment,0,0,20,No
+16,RansomX_Enterprise,36,Unknown,Eastern European,Expert,REvil Splinter,At Large,Russia,Enterprise ransomware with data exfiltration,0,3200000,96,Yes
+17,KYC_Hijacker,31,Male,Indian,Intermediate,SIM Swap Ring,Arrested,India,Vishing and social engineering for OTP theft,1,250000,65,No
+18,GramHacker_Ghost,24,Female,Indian,Beginner,Solo Operator,Arrested,India,Phishing links via DMs,0,15000,28,No
+19,BioBreach_Phantom,43,Male,Indian,Expert,Biometric Fraud Ring,At Large,India,Biometric cloning using silicone molds,2,540000,80,No
+20,MatrimonialTrap,50,Female,Indian,Intermediate,Romance Scam Network,Arrested,India,Long-term romance fraud via portals,3,420000,68,No
+21,UniversityLock_Crew,39,Unknown,Eastern European,Expert,Academic Ransomware Ring,At Large,Russia,Targeted attacks on educational data systems,0,1200000,88,Yes
+22,CredHarvester_Pro,34,Male,Indian,Intermediate,Phishing-as-a-Service,At Large,India,Deploying fake login panels on rented servers,1,0,72,Yes
+23,CryptoSwap_Thief,37,Male,Unknown,Expert,Crypto Exchange Cartel,At Large,Unknown,Fake exchange with exit scam,0,4500000,90,Yes
+24,TrackHer_Spy,29,Male,Indian,Intermediate,Solo Operator,Arrested,India,Installing stalkerware on partner devices,0,0,55,No
+25,InBank_Insider,44,Male,Indian,Expert,Insider Threat,Under Surveillance,India,Privilege abuse and lateral movement,1,0,82,No
+26,TaxEvasion_Ghost,52,Male,Indian,Intermediate,Tax Fraud Ring,Arrested,India,Filing fraudulent ITR using stolen credentials,2,280000,60,No
+27,FakeJobs_HR,28,Female,Indian,Beginner,Online Job Fraud Gang,Arrested,India,Fake recruitment portals,0,95000,35,No
+28,DataHold_Avenger,41,Unknown,Eastern European,Expert,Maze Ransomware Affiliate,At Large,Romania,Exfiltrate then encrypt for double extortion,0,2800000,94,Yes
+29,OTPRobber_Fast,26,Male,Indian,Intermediate,Banking Fraud Ring,Arrested,India,Phishing then OTP interception via call,1,380000,70,No
+30,InsureFake_Broker,60,Male,Indian,Intermediate,Insurance Fraud Network,At Large,India,Fake policy documents and premium collection,3,650000,65,No

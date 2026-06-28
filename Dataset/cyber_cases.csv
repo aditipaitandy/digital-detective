@@ -1,0 +1,101 @@
+case_id,case_number,crime_type,crime_subtype,report_date,incident_date,status,severity,financial_loss_usd,city_id,victim_id,suspect_id,investigator_id,description
+1,CYB-2023-0001,Phishing,Email Phishing,2023-01-05,2023-01-03,Closed,High,45000,1,1,1,1,Victim received fraudulent bank email and transferred funds
+2,CYB-2023-0002,Ransomware,Corporate Ransomware,2023-01-08,2023-01-07,Closed,Critical,250000,2,2,2,2,Company servers encrypted, ransom demanded in Bitcoin
+3,CYB-2023-0003,Identity Theft,Financial Identity Theft,2023-01-12,2023-01-10,Open,High,32000,3,3,3,3,Suspect used stolen PAN card for multiple loans
+4,CYB-2023-0004,Online Fraud,Investment Fraud,2023-01-15,2023-01-12,Closed,Medium,18000,4,4,4,4,Fake investment platform stole funds from 20 victims
+5,CYB-2023-0005,Cyberstalking,Social Media Stalking,2023-01-20,2023-01-18,Open,Medium,0,5,5,5,5,Victim harassed across multiple social platforms
+6,CYB-2023-0006,Hacking,Database Breach,2023-01-22,2023-01-20,Closed,Critical,500000,1,6,6,1,E-commerce database compromised, 50000 records stolen
+7,CYB-2023-0007,Phishing,SMS Phishing,2023-01-28,2023-01-26,Closed,Medium,8500,2,7,7,2,Smishing campaign targeted bank customers
+8,CYB-2023-0008,Child Exploitation,CSAM Distribution,2023-02-02,2023-01-30,Under Investigation,Critical,0,3,8,8,3,Dark web distribution network discovered
+9,CYB-2023-0009,Online Fraud,E-Commerce Fraud,2023-02-05,2023-02-03,Closed,Low,3200,6,9,9,4,Fake seller on marketplace never delivered goods
+10,CYB-2023-0010,Ransomware,Hospital Ransomware,2023-02-10,2023-02-08,Closed,Critical,750000,7,10,10,5,Hospital systems held hostage endangering patients
+11,CYB-2023-0011,Identity Theft,Social Media Impersonation,2023-02-14,2023-02-12,Open,Low,0,8,11,11,6,Fake celebrity profile used to scam followers
+12,CYB-2023-0012,Hacking,Government Portal Hack,2023-02-18,2023-02-15,Under Investigation,Critical,0,1,12,12,7,State government website defaced by hacktivists
+13,CYB-2023-0013,Phishing,Spear Phishing,2023-02-22,2023-02-20,Closed,High,95000,9,13,13,8,CFO targeted with fake CEO email, wire transfer made
+14,CYB-2023-0014,Online Fraud,Lottery Fraud,2023-02-25,2023-02-22,Closed,Low,12000,10,14,14,9,Victim convinced they won lottery and paid processing fees
+15,CYB-2023-0015,Cyberbullying,Online Harassment,2023-03-01,2023-02-27,Closed,Low,0,4,15,15,10,Student harassed via anonymous messaging app
+16,CYB-2023-0016,Ransomware,SME Ransomware,2023-03-05,2023-03-03,Closed,High,85000,5,16,16,1,Small business owner paid ransom to recover data
+17,CYB-2023-0017,Phishing,Vishing,2023-03-08,2023-03-06,Closed,Medium,22000,6,17,17,2,KYC fraud call scammed elderly victim
+18,CYB-2023-0018,Hacking,Social Media Hack,2023-03-12,2023-03-10,Open,Medium,5000,7,18,18,3,Instagram account hacked and used to promote scams
+19,CYB-2023-0019,Identity Theft,Aadhaar Fraud,2023-03-16,2023-03-14,Closed,High,67000,8,19,19,4,Biometric cloning used for unauthorized SIM swap
+20,CYB-2023-0020,Online Fraud,Matrimonial Fraud,2023-03-20,2023-03-18,Closed,Medium,35000,9,20,20,5,Romance scam via matrimonial website
+21,CYB-2023-0021,Ransomware,Educational Institution,2023-03-25,2023-03-22,Closed,High,120000,10,21,21,6,University exam servers encrypted before finals
+22,CYB-2023-0022,Phishing,Credential Harvesting,2023-03-28,2023-03-26,Open,High,0,1,22,22,7,Fake login pages capturing corporate credentials
+23,CYB-2023-0023,Online Fraud,Crypto Fraud,2023-04-02,2023-03-30,Closed,High,180000,2,23,23,8,Fake cryptocurrency exchange defrauded investors
+24,CYB-2023-0024,Cyberstalking,GPS Tracking,2023-04-06,2023-04-04,Closed,Medium,0,3,24,24,9,Spouse secretly installed tracking app on victim phone
+25,CYB-2023-0025,Hacking,Banking System Intrusion,2023-04-10,2023-04-08,Under Investigation,Critical,0,4,25,25,10,Core banking application breached by insider threat
+26,CYB-2023-0026,Identity Theft,Tax Identity Fraud,2023-04-14,2023-04-12,Closed,Medium,28000,5,26,26,1,Fraudulent ITR filed using victim PAN
+27,CYB-2023-0027,Online Fraud,Job Fraud,2023-04-18,2023-04-16,Closed,Low,15000,6,27,27,2,Fake job portals collecting registration fees
+28,CYB-2023-0028,Ransomware,Legal Firm Attack,2023-04-22,2023-04-20,Closed,Critical,320000,7,28,28,3,Law firm client data encrypted and threatened to leak
+29,CYB-2023-0029,Phishing,Banking Phishing,2023-04-26,2023-04-24,Closed,High,55000,8,29,29,4,Fake net banking page captured OTP and credentials
+30,CYB-2023-0030,Online Fraud,Insurance Fraud,2023-04-30,2023-04-28,Open,Medium,42000,9,30,30,5,Fake insurance policies sold to 100+ victims
+31,CYB-2023-0031,Hacking,Power Grid Attack,2023-05-04,2023-05-02,Under Investigation,Critical,0,10,31,1,6,State power grid SCADA systems breached
+32,CYB-2023-0032,Online Fraud,UPI Fraud,2023-05-08,2023-05-06,Closed,Medium,9500,1,32,2,7,Screen sharing scam duped victim into transferring money
+33,CYB-2023-0033,Identity Theft,Credit Card Cloning,2023-05-12,2023-05-10,Closed,High,78000,2,33,3,8,Skimmer installed at ATM cloned 200+ cards
+34,CYB-2023-0034,Cyberstalking,Revenge Porn,2023-05-16,2023-05-14,Closed,High,0,3,34,4,9,Ex-partner shared intimate images without consent
+35,CYB-2023-0035,Ransomware,Manufacturing Plant,2023-05-20,2023-05-18,Closed,Critical,450000,4,35,5,10,Auto parts manufacturer OT systems compromised
+36,CYB-2023-0036,Phishing,QR Code Phishing,2023-05-24,2023-05-22,Open,Medium,0,5,36,6,1,Malicious QR codes placed in public locations
+37,CYB-2023-0037,Online Fraud,Fake App Fraud,2023-05-28,2023-05-26,Closed,Medium,25000,6,37,7,2,Cloned banking app distributed via unofficial store
+38,CYB-2023-0038,Hacking,Healthcare Data Breach,2023-06-01,2023-05-30,Under Investigation,Critical,0,7,38,8,3,Patient records of 100000 people stolen and sold
+39,CYB-2023-0039,Identity Theft,SIM Swap Fraud,2023-06-05,2023-06-03,Closed,High,115000,8,39,9,4,SIM swap enabled OTP interception for bank transfers
+40,CYB-2023-0040,Online Fraud,Tech Support Fraud,2023-06-09,2023-06-07,Closed,Low,7500,9,40,10,5,Fake Windows support team installed malware remotely
+41,CYB-2023-0041,Ransomware,Retail Chain Attack,2023-06-13,2023-06-11,Closed,High,195000,10,1,11,6,POS systems at retail chain encrypted nationally
+42,CYB-2023-0042,Phishing,Whaling Attack,2023-06-17,2023-06-15,Closed,Critical,850000,1,2,12,7,CEO-level executive targeted, major fund transfer executed
+43,CYB-2023-0043,Online Fraud,Ponzi Scheme,2023-06-21,2023-06-19,Under Investigation,Critical,2500000,2,3,13,8,Multi-level Ponzi scheme defrauded 5000 investors
+44,CYB-2023-0044,Cyberbullying,Doxxing,2023-06-25,2023-06-23,Closed,Medium,0,3,4,14,9,Activist personal info published online causing threats
+45,CYB-2023-0045,Hacking,Telecom Breach,2023-06-29,2023-06-27,Under Investigation,Critical,0,4,5,15,10,Major telecom CDR records breached
+46,CYB-2023-0046,Identity Theft,Passport Fraud,2023-07-03,2023-07-01,Closed,High,0,5,6,16,1,Fake passport used for international travel
+47,CYB-2023-0047,Online Fraud,Travel Fraud,2023-07-07,2023-07-05,Closed,Medium,38000,6,7,17,2,Fake travel packages collected money and disappeared
+48,CYB-2023-0048,Ransomware,NGO Attack,2023-07-11,2023-07-09,Closed,Medium,65000,7,8,18,3,Non-profit donor database encrypted
+49,CYB-2023-0049,Phishing,Tax Department Phishing,2023-07-15,2023-07-13,Open,High,0,8,9,19,4,Fake Income Tax refund portal harvesting credentials
+50,CYB-2023-0050,Online Fraud,Real Estate Fraud,2023-07-19,2023-07-17,Closed,High,320000,9,10,20,5,Fake property listing defrauded NRI buyers
+51,CYB-2023-0051,Hacking,Supply Chain Attack,2023-07-23,2023-07-21,Under Investigation,Critical,0,10,11,21,6,Software vendor compromised to attack 50 clients
+52,CYB-2023-0052,Online Fraud,Loan Fraud,2023-07-27,2023-07-25,Closed,Medium,55000,1,12,22,7,Instant loan apps harvesting contacts for extortion
+53,CYB-2023-0053,Ransomware,Airport Systems,2023-07-31,2023-07-29,Under Investigation,Critical,0,2,13,23,8,Regional airport check-in and display systems hit
+54,CYB-2023-0054,Identity Theft,Voter ID Fraud,2023-08-04,2023-08-02,Closed,Medium,0,3,14,24,9,Fake voter registration used for benefits fraud
+55,CYB-2023-0055,Cyberstalking,Deepfake Harassment,2023-08-08,2023-08-06,Closed,High,0,4,15,25,10,Deepfake videos created to harass female journalist
+56,CYB-2023-0056,Online Fraud,Child Education Fraud,2023-08-12,2023-08-10,Closed,Medium,28000,5,16,26,1,Fake scholarship portal collected fees from parents
+57,CYB-2023-0057,Hacking,NGO Data Breach,2023-08-16,2023-08-14,Closed,High,0,6,17,27,2,Human rights organization donor list leaked
+58,CYB-2023-0058,Phishing,EPFO Phishing,2023-08-20,2023-08-18,Closed,Medium,42000,7,18,28,3,Fake EPFO portal used to steal provident fund
+59,CYB-2023-0059,Online Fraud,Donation Fraud,2023-08-24,2023-08-22,Closed,Low,18000,8,19,29,4,Fake charity for flood victims collected donations
+60,CYB-2023-0060,Ransomware,Logistics Company,2023-08-28,2023-08-26,Closed,High,175000,9,20,30,5,Courier tracking systems encrypted nationwide
+61,CYB-2023-0061,Identity Theft,Corporate Espionage,2023-09-01,2023-08-30,Under Investigation,Critical,0,10,21,1,6,Trade secrets stolen via insider data exfiltration
+62,CYB-2023-0062,Online Fraud,Gaming Fraud,2023-09-05,2023-09-03,Closed,Low,8500,1,22,2,7,In-game currency scam defrauded teenagers
+63,CYB-2023-0063,Phishing,UIDAI Phishing,2023-09-09,2023-09-07,Open,High,0,2,23,3,8,Fake Aadhaar update portal capturing biometrics
+64,CYB-2023-0064,Hacking,Stock Exchange Attempt,2023-09-13,2023-09-11,Closed,Critical,0,3,24,4,9,Unsuccessful intrusion attempt on trading systems
+65,CYB-2023-0065,Online Fraud,Solar Panel Fraud,2023-09-17,2023-09-15,Closed,Medium,95000,4,25,5,10,Fake govt scheme for solar panels took advance payments
+66,CYB-2023-0066,Ransomware,Media House,2023-09-21,2023-09-19,Closed,High,230000,5,26,6,1,News channel broadcast systems held hostage before election
+67,CYB-2023-0067,Identity Theft,Drug Trafficking Link,2023-09-25,2023-09-23,Under Investigation,Critical,0,6,27,7,2,Stolen identities used to ship controlled substances
+68,CYB-2023-0068,Cyberstalking,Minor Victim,2023-09-29,2023-09-27,Closed,Critical,0,7,28,8,3,15-year-old groomed and blackmailed online
+69,CYB-2023-0069,Online Fraud,Mutual Fund Fraud,2023-10-03,2023-10-01,Closed,High,185000,8,29,9,4,SEBI impersonation for fake investment accounts
+70,CYB-2023-0070,Phishing,Healthcare Phishing,2023-10-07,2023-10-05,Closed,Medium,35000,9,30,10,5,Fake hospital appointment portal stole payment details
+71,CYB-2023-0071,Hacking,Water Treatment Plant,2023-10-11,2023-10-09,Under Investigation,Critical,0,10,31,11,6,Water supply SCADA accessed remotely from foreign IP
+72,CYB-2023-0072,Online Fraud,Fake Police Extortion,2023-10-15,2023-10-13,Closed,Medium,22000,1,32,12,7,Caller posed as CBI officer to extort money
+73,CYB-2023-0073,Ransomware,Food Chain,2023-10-19,2023-10-17,Closed,High,145000,2,33,13,8,Restaurant chain POS and inventory systems encrypted
+74,CYB-2023-0074,Identity Theft,MSME Fraud,2023-10-23,2023-10-21,Closed,High,280000,3,34,14,9,Stolen GST credentials used for fraudulent ITC claims
+75,CYB-2023-0075,Cyberbullying,School Cyberbullying,2023-10-27,2023-10-25,Closed,Low,0,4,35,15,10,Group of students bullied peer using WhatsApp group
+76,CYB-2023-0076,Online Fraud,Agri Fraud,2023-10-31,2023-10-29,Closed,Medium,55000,5,36,16,1,Fake seed/fertilizer portal looted farmers
+77,CYB-2023-0077,Phishing,Customs Phishing,2023-11-04,2023-11-02,Closed,High,48000,6,37,17,2,Fake customs duty email to collect import fees
+78,CYB-2023-0078,Hacking,Cloud Misconfiguration,2023-11-08,2023-11-06,Closed,High,0,7,38,18,3,AWS S3 bucket exposed sensitive corporate data
+79,CYB-2023-0079,Online Fraud,Fuel Subsidy Fraud,2023-11-12,2023-11-10,Closed,Medium,72000,8,39,19,4,Fake govt fuel subsidy portal stole banking credentials
+80,CYB-2023-0080,Ransomware,Insurance Company,2023-11-16,2023-11-14,Closed,Critical,580000,9,40,20,5,Policy data of 200000 customers encrypted
+81,CYB-2023-0081,Identity Theft,Bank KYC Fraud,2023-11-20,2023-11-18,Under Investigation,High,0,10,1,21,6,Fake KYC agents collecting Aadhaar and PAN data
+82,CYB-2023-0082,Online Fraud,Festival Fraud,2023-11-24,2023-11-22,Closed,Low,15000,1,2,22,7,Fake Diwali gift offers collected credit card details
+83,CYB-2023-0083,Phishing,RBI Phishing,2023-11-28,2023-11-26,Open,High,0,2,3,23,8,Fake RBI circular phishing for banking credentials
+84,CYB-2023-0084,Cyberstalking,Workplace Stalking,2023-12-02,2023-11-30,Closed,Medium,0,3,4,24,9,Employee tracked by colleague using spyware on work laptop
+85,CYB-2023-0085,Hacking,Defence Contractor,2023-12-06,2023-12-04,Under Investigation,Critical,0,4,5,25,10,APT group accessed sensitive defence procurement data
+86,CYB-2023-0086,Online Fraud,Medical Fraud,2023-12-10,2023-12-08,Closed,Medium,42000,5,6,26,1,Fake online pharmacy selling counterfeit medicines
+87,CYB-2023-0087,Ransomware,Education Board,2023-12-14,2023-12-12,Closed,Critical,390000,6,7,27,2,State board exam results database encrypted
+88,CYB-2023-0088,Identity Theft,Diplomatic Fraud,2023-12-18,2023-12-16,Under Investigation,Critical,0,7,8,28,3,Stolen diplomat credentials used for access to secure zones
+89,CYB-2023-0089,Online Fraud,Year End Fraud,2023-12-22,2023-12-20,Closed,Medium,68000,8,9,29,4,Fake year-end bonus email tricked employees
+90,CYB-2023-0090,Phishing,Charity Phishing,2023-12-26,2023-12-24,Closed,Low,9500,9,10,30,5,Fake charity donation link during Christmas
+91,CYB-2023-0091,Hacking,Smart City Systems,2024-01-05,2024-01-03,Under Investigation,Critical,0,10,11,1,6,Traffic and surveillance systems in smart city breached
+92,CYB-2024-0092,Online Fraud,AI Voice Fraud,2024-01-10,2024-01-08,Closed,High,125000,1,12,2,7,AI-cloned voice of CEO used to authorize transfers
+93,CYB-2024-0093,Ransomware,Port Authority,2024-01-15,2024-01-13,Under Investigation,Critical,0,2,13,3,8,Port logistics and customs systems disrupted
+94,CYB-2024-0094,Identity Theft,Deepfake KYC Bypass,2024-01-20,2024-01-18,Closed,Critical,420000,3,14,4,9,Deepfake video used to bypass video KYC for loans
+95,CYB-2024-0095,Online Fraud,Pig Butchering,2024-01-25,2024-01-23,Closed,Critical,1800000,4,15,5,10,Long-term crypto romance scam drained victim savings
+96,CYB-2024-0096,Phishing,Zero-Day Exploit Phish,2024-01-30,2024-01-28,Under Investigation,Critical,0,5,16,6,1,Nation-state phishing exploiting zero-day vulnerability
+97,CYB-2024-0097,Hacking,EV Charging Network,2024-02-04,2024-02-02,Closed,High,0,6,17,7,2,EV charging stations hacked to steal payment data
+98,CYB-2024-0098,Online Fraud,AI Investment Fraud,2024-02-09,2024-02-07,Closed,Critical,950000,7,18,8,3,Fake AI trading bot promised guaranteed returns
+99,CYB-2024-0099,Ransomware,State Police Dept,2024-02-14,2024-02-12,Under Investigation,Critical,0,8,19,9,4,Police FIR and evidence database encrypted
+100,CYB-2024-0100,Identity Theft,Biometric Spoofing,2024-02-19,2024-02-17,Closed,Critical,680000,9,20,10,5,Synthetic fingerprint used to bypass biometric auth
